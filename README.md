@@ -8,7 +8,16 @@ Playing with wordpress core files is little fun! Wewbsite on the way!
 
 Below am updating the days in descending with small description, what I have done in daily basis.
 
-Last updated : 15/09/2022 10:20 PM IST
+Last updated : 20/09/2022 12:30 AM IST
+
+----------
+
+> ###### Day 2 (20/09/2022):
+
+- Successfully integrated template to the wordpress files.
+- Added 404 page.
+- Planned to add custom tables for adding doctors details (SQL). (Or creating doctor details as a posts).
+- Not doing SEO yet.
 
 ----------
 
