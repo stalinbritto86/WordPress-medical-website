@@ -2,7 +2,7 @@
 
 Working on developing a medical website using wordpress. For integrating advance features such as doctors info, am planned to create multiple categories in custom wordpress database.
 
-Playing with wordpress core files is little fun! Wewbsite on the way!
+Playing with wordpress core files is little fun! Website on the way!
 
 ----------
 
